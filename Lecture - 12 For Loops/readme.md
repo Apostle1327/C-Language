@@ -4,8 +4,8 @@
 <p>Question - 1</p>
 <img src="Screenshots\Q1.png">
 
-<p>Question - 1</p>
+<p>Question - 2</p>
 <img src="Screenshots\Q2.png">
 
-<p>Question - 1</p>
+<p>Question - 3</p>
 <img src="Screenshots\Q3.png">
