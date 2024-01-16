@@ -1,4 +1,4 @@
-<h2 style="margin:auto;">Project 3 - Temperate</h2>
+<h2>Project 3 - Temperate</h2>
 
 <p>Questtion - 1</p>
 <img src="Screenshots\Q1.png">
