@@ -1,0 +1,37 @@
+<h4>Project - 4 Circlet</h4> <br>
+<h5>This file here Contains the Screen Captures of Given Tasks.</h5>
+
+
+<p>Question - 1</p>
+<img src="Screenshots\Q1.png">
+
+<hr>
+
+<p>Question - 2</p>
+<img src="Screenshots\Q2.png">
+
+<hr>
+
+<p>Question - 3</p>
+<img src="Screenshots\Q3.png">
+
+<hr>
+
+<p>Question - 4</p>
+<img src="Screenshots\Q4.png">
+
+<hr>
+
+<p>Question - 5</p>
+<img src="Screenshots\Q5.png">
+
+<hr>
+
+<p>Question - 6</p>
+<img src="Screenshots\Q6.png">
+
+<hr>
+
+<p>Question - 7</p>
+<img src="Screenshots\Q7.png">
+
