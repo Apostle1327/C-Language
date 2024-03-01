@@ -13,4 +13,4 @@
 <hr>
 
 <p>Question - 2</p>
-<img src="Screenshots\Q2-2.png">
+<img src="Screenshots\Q2 - 2.png">
