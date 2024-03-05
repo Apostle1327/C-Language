@@ -3,9 +3,7 @@
 
 
 <p>Question - 1</p>
-<img src="Screenshots\Q1 - 1.png">
-<img src="Screenshots\Q1 - 2.png">
-
+<img src="Screenshots\Q1 - 1.png"> <img src="Screenshots\Q1 - 2.png">
 <hr>
 
 <p>Question - 2</p>
