@@ -40,20 +40,20 @@ int main()
     }
 
     printf("\n=/=/=/=/=/=/=/=/ Student Records =/=/=/=/=/=/=/=/=/=\n\n");
-    int index ;
+    int index;
     printf("Enter the index : ");
-    scanf("%d",&index);
+    scanf("%d", &index);
 
     for (int i = index; i == index; i++)
-        {
-            printf("\nStudent : %d \n", i + 1);
-            printf("ID : %d \n", students[i].stu_Id);
-            printf("Name : %s \n", students[i].stu_Name);
-            printf("Age : %d \n", students[i].stu_Age);
-            printf("Course : %s \n", students[i].stu_Course);
-            printf("City : %s \n", students[i].stu_City);
-            printf("Institute : %s \n", students[i].stu_Institute);
-        }
+    {
+        printf("\nStudent : %d \n", i + 1);
+        printf("ID : %d \n", students[i].stu_Id);
+        printf("Name : %s \n", students[i].stu_Name);
+        printf("Age : %d \n", students[i].stu_Age);
+        printf("Course : %s \n", students[i].stu_Course);
+        printf("City : %s \n", students[i].stu_City);
+        printf("Institute : %s \n", students[i].stu_Institute);
+    }
 
     return 0;
 }
