@@ -14,9 +14,9 @@ int main()
 {
 
 // Injecting Data in the Database
-    struct student students[5];
+    struct student students[3];
 
-    for (int i = 0; i < 5; i++)
+    for (int i = 0; i < 3; i++)
     {
         printf("\nEnter the details of the Student %d : \n", i + 1);
 
@@ -40,8 +40,11 @@ int main()
     }
 
     printf("\n=/=/=/=/=/=/=/=/ Student Records =/=/=/=/=/=/=/=/=/=\n\n");
+    int index ;
+    printf("Enter the index : ");
+    scanf("%d",&index);
 
-    for (int i = 0; i < 5; i++)
+    for (int i = index; i == index; i++)
         {
             printf("\nStudent : %d \n", i + 1);
             printf("ID : %d \n", students[i].stu_Id);
