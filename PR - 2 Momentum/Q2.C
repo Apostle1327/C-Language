@@ -51,12 +51,11 @@ main()
 
 	GST = Charges * 0.20;
 
-	printf("\n\nAddotional Tax : %f", GST);
+	printf("\n\nAdditional Tax : %f", GST);
 
 	FA = (Charges + GST);
 
 	printf("\n\n\nYour Final Payable Amount is : %f", FA);
 
 	getch();
-
 }
