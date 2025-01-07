@@ -17,7 +17,7 @@ int main()
 
     if (len <= 6)
     {
-        printf("Password is Not strong enough!, it must be at least 6 charecters long.");
+        printf("Password is Not strong enough!, it must be at least 6 characters long.");
         return 0;
     }
 
